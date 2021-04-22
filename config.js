@@ -43,7 +43,7 @@ const config = {
       '4-applications'
 
     ],
-    collapsedNav: [],
+    collapsedNav: ["/v3.4.0"],
     links: [{ text: 'Evision.Tech', link: 'https://evision.tech/' }],
     frontline: false,
     ignoreIndex: true,
