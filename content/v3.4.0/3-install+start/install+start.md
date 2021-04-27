@@ -57,7 +57,7 @@ title: "Подготовка к работе"
 
 ##### Установка eVision для Windows
 
-Скачать установочный файл можно на сайте www.evision.tech в разделе Evision. Или по этой ссылке [https://www.evision.tech/distr/eVision.3.4_setup.exe](https://www.evision.tech/distr/eVision.3.4_setup.exe)
+Скачать установочный файл можно на сайте www.evision.tech в разделе Evision. Или по этой ссылке [https://api.evision.tech/distr/eVision.3.4.0_setup.exe](https://api.evision.tech/distr/eVision.3.4.0_setup.exe)
 
 ![](images/install(8).png)
 
@@ -91,7 +91,7 @@ title: "Подготовка к работе"
 Инструкция с некоторыми полезными командами Docker:
 <https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru>
 
-После установки Docker, скачиваем конфигурационный файл текущей версии **eVision** по ссылке: <https://www.evision.tech/distr/docker-compose.yml>.
+После установки Docker, скачиваем конфигурационный YML файл текущей версии **eVision** по ссылке: [https://api.evision.tech/distr/docker-compose.yml](https://api.evision.tech/distr/docker-compose.yml).
 
 Для загрузки контейнера **eVision** в папке с конфигурационным файлом в командной строке необходимо выполнить команду:
 
