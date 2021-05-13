@@ -1,7 +1,7 @@
 ---
-title: "Требования к серверу для eVision"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+slug: "/post1"
+title: "Требования к серверу"
+sort: "1"
 ---
 
 ##### **Конфигурация компьютера**

@@ -1,33 +1,36 @@
 ---
-slug: "/post4"
+slug: "/post1"
 title: "Установка eVision"
+sort: "1"
 ---
 
 ##### Получение и установка пакета VCredist.exe
 
-Перед установкой eVision на Windows 10  необходимо установить распространяемый пакет Visual C++ для Visual Studio 2015 для корректной работы программы.  Перейдя по [https://www.microsoft.com/ru-ru/download/details.aspx?id=48145](https://www.microsoft.com/ru-ru/download/details.aspx?id=48145), нажмите *Cкачать*.
+Перед установкой eVision на Windows 10  необходимо установить пакет Visual C++ для Visual Studio 2015 для корректной работы программы. Перейдите по ссылке [https://www.microsoft.com/ru-ru/download/details.aspx?id=48145](https://www.microsoft.com/ru-ru/download/details.aspx?id=48145), нажмите "*Cкачать*".
 
 ![](images/vcredist01.jpg)
 
-Затем в зависимости от Вашей системы отметьте 32 или 64 битную версию галочкой, нажмите «*Next*».![](images/vcredist02.jpg)
+Затем в зависимости от Вашей системы отметьте 32 или 64 битную версию галочкой, нажмите "*Next*".   
 
-Запустите скачанный файл vcredist.exe, в итоге откроется окно, в котором нам необходимо ознакомиться и согласиться с условиями лицензионного соглашения и затем нажать «*Установить*».
+![](images/vcredist02.jpg)
+
+Запустите скачанный файл vcredist.exe, в итоге откроется окно, в котором нам необходимо ознакомиться и согласиться с условиями лицензионного соглашения и затем нажать "*Установить*".  
 
 ![](images/vcredist03.jpg)
 
-Начался процесс установки.
+Начался процесс установки.  
 
 ![](images/vcredist04.jpg)
 
-По окончанию установки появится соответствующее окно о окончании установки. Нажмите “Закрыть”.
+По окончанию установки появится соответствующее окно о окончании установки. Нажмите “Закрыть”.  
 
 ![](images/vcredist05.jpg)
 
-Теперь можно продолжить установку программы **eVision**.
+Теперь можно продолжить установку программы **eVision**.  
 
 ##### Установка eVision для Windows
 
-Скачать установочный файл можно на сайте www.evision.tech в разделе Evision. Или по этой ссылке [https://api.evision.tech/distr/eVision.3.4.0_setup.exe](https://api.evision.tech/distr/eVision.3.4.0_setup.exe)
+Скачать установочный файл можно на сайте www.evision.tech в разделе Evision. Или по этой ссылке [https://api.evision.tech/distr/eVision.3.4.0_setup.exe](https://api.evision.tech/distr/eVision.3.4.0_setup.exe)  
 
 ![](images/install(8).png)
 

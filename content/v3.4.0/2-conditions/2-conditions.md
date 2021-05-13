@@ -1,7 +1,7 @@
 ---
+slug: "/post2"
 title: "Требования к оборудованию"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+sort: "2"
 ---
 
 ##### **Требования к оборудованию**
