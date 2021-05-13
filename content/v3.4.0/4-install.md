@@ -4,7 +4,6 @@ metaTitle: "Syntax Highlighting is the meta title tag for this page"
 metaDescription: "This is the meta description for this page"
 ---
 
-#### Установка eVision
 ##### Получение и установка пакета VCredist.exe
 
 Перед установкой eVision на Windows 10  необходимо установить распространяемый пакет Visual C++ для Visual Studio 2015 для корректной работы программы.  Перейдя по [https://www.microsoft.com/ru-ru/download/details.aspx?id=48145](https://www.microsoft.com/ru-ru/download/details.aspx?id=48145), нажмите *Cкачать*.
@@ -74,28 +73,3 @@ metaDescription: "This is the meta description for this page"
 *docker-compose up*
 
 После запуска данной команды в окне терминала появится логирование событий и состояния **eVision.**
-
-##### Запуск eVision для Windows
-
-Существует несколько вариантов запуска приложения из ярлыка **eVision**, который находится:
-- на Рабочем столе: ![](images/start02.png)
-
-- в меню Пуск: ![](images/start01.png)
-
-После запуска откроется окно авторизации:
-
-![](images/auth.png)
-
-Введите логин и пароль пользователя и нажмите кнопку **Войти**. По умолчанию логин и пароль пользователя с правами администратора: admin/admin.
-
-**!** Для безопасности стандартные логин и пароль администратора рекомендуется поменять. Восстановление утерянных логина и пароля учетной записи администратора  невозможно, сохраните их в безопасном месте.
-
-##### Запуск eVision для Ubuntu
-
-После запуска контейнера **eVision**, откройте браузер и введите в адресной строке:
-
-*localhost:4000*
-
-Откроется окно авторизации. По умолчанию логин и пароль пользователя с правами администратора: admin/admin.
-
-![](images/auth.png)
