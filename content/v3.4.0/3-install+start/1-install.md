@@ -1,7 +1,6 @@
 ---
-title: "Установка и запуск"
-metaTitle: "Syntax Highlighting is the meta title tag for this page"
-metaDescription: "This is the meta description for this page"
+slug: "/post4"
+title: "Установка eVision"
 ---
 
 ##### Получение и установка пакета VCredist.exe
