@@ -1,8 +1,8 @@
----
+..---
 slug: "/post5"
 title: "Интерфейс eVision"
 sort: "5"
----
+..---
 
 ![](images/Interface(05).png)
 
