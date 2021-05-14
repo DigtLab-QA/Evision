@@ -4,7 +4,7 @@ title: "Установка eVision"
 sort: "1"
 ---
 
-##### **Получение и установка пакета VCredist.exe**
+#### Получение и установка пакета VCredist.exe
 
 Перед установкой eVision на Windows 10  необходимо установить пакет Visual C++ для Visual Studio 2015 для корректной работы программы. Перейдите по ссылке [https://www.microsoft.com/ru-ru/download/details.aspx?id=48145](https://www.microsoft.com/ru-ru/download/details.aspx?id=48145), нажмите "*Cкачать*".
 
@@ -28,7 +28,7 @@ sort: "1"
 
 Теперь можно продолжить установку программы **eVision**.  
 
-##### **Установка eVision для Windows**
+#### Установка eVision для Windows
 
 Скачать установочный файл можно на сайте www.evision.tech в разделе Evision. Или по этой ссылке [https://api.evision.tech/distr/eVision.3.4.0_setup.exe](https://api.evision.tech/distr/eVision.3.4.0_setup.exe)  
 
@@ -54,7 +54,7 @@ sort: "1"
 
 После завершения установки **eVision** будет готов к запуску.
 
-##### **Установка eVision для Ubuntu**
+#### Установка eVision для Ubuntu
 
 Для начала работы **eVision** необходимо установить программное обеспечение для быстрого развертывания приложений Docker и Docker-compose для Ubuntu. Подробную инструкцию, как это сделать можно прочитать на сайтах:
 <https://totaku.ru/ustanovka-docker-i-docker-compose-v-ubuntu-18-04>
