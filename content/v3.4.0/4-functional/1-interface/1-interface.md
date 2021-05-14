@@ -1,8 +1,8 @@
-..---
-slug: "/post5"
+---
+slug: "/post1"
 title: "Интерфейс eVision"
-sort: "5"
-..---
+sort: "1"
+---
 
 ![](images/Interface(05).png)
 

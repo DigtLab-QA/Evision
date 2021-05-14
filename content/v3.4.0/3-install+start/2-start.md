@@ -1,8 +1,8 @@
-..---
+---
 slug: "/post2"
 title: "Запуск eVision"
 sort: "2"
-..---
+---
 
 ##### **Запуск eVision для Windows**
 
