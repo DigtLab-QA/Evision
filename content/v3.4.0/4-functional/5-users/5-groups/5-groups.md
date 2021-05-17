@@ -1,7 +1,7 @@
 ---
-slug: "/post7"
+slug: "/post8"
 title: "Группы"
-sort: "7"
+sort: "8"
 ---
 
 #### Группы
