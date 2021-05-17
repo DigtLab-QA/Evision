@@ -1,7 +1,7 @@
 ---
-slug: "/post9"
+slug: "/post8"
 title: "История"
-sort: "9"
+sort: "8"
 ---
 
 #### История
