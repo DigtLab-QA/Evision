@@ -1,7 +1,7 @@
 ---
-slug: "/post10"
+slug: "/post20"
 title: "Номера"
-sort: "10"
+sort: "20"
 ---
 
 #### Номера
