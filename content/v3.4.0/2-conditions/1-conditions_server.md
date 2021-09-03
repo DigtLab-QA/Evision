@@ -24,8 +24,9 @@ sort: "1"
 #### Поддерживаемые операционные системы
 
 Доступные операционные системы архитектуры Linux с поддержкой Docker и Docker-compose:
+
 |Операционная система|Версия|
-| :- | :- |
+|--------------|--------------------------------------------------------|
 |CentOS|7 и 8|
 |Debian 64-bit|Debian Bullseye 11 (testing), Debian Buster 10 (stable), Raspbian Bullseye 11 (testing), Raspbian Buster 10 (stable)|
 |Fedora 64-bit|33 и 34|
