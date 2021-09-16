@@ -4,7 +4,7 @@ title: "Интерфейс eVision"
 sort: "10"
 ---
 
-![](images/Interface(05).png)
+![](images/Screenshot_161.png)
 
 В верхней части экрана расположены:
 
