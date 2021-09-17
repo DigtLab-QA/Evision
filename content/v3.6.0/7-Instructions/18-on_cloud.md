@@ -1,7 +1,7 @@
 ---
-slug: "/post26"
+slug: "/post27"
 title: "Как включить сервис eVision.Cloud"
-sort: "26"
+sort: "27"
 ---
 
 ![](images/Aspose.Words.374291bc-21e0-4dc1-8208-7b6db552d3f3.177.png)

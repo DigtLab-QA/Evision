@@ -1,7 +1,7 @@
 ---
-slug: "/post31"
+slug: "/post32"
 title: "Как включить UPnP"
-sort: "31"
+sort: "32"
 ---
 
 Для того что бы включить UPnP (Universal Plug and Play) перейдите в **Настройки** программы.
