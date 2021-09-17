@@ -1,5 +1,5 @@
 ---
-title: "Требования и условия использования eVision"
+title: "Требования и условия использования"
 metaTitle: "Evision.Tech"
 metaDescription: "This is the meta description for this page"
 ---

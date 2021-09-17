@@ -22,7 +22,7 @@ sort: "11"
 
 ![](images/Screenshot_161.png)
 
-По умолчанию указан путь: C:\Users\kocty\AppData\Roaming\eVision Data
+По умолчанию указан путь: C:\Users\ИМЯ ПОЛЬЗОВАТЕЛЯ\AppData\Roaming\eVision Data
 
 #### Переадресация портов
 
