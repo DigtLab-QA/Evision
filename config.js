@@ -37,10 +37,6 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      '1',
-      '2',
-      '3',
-      '4',
       'v3.4.0',
       'v3.6.0',
       'cloud_v1.6.2'
