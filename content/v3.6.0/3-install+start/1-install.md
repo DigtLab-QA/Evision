@@ -6,7 +6,7 @@ sort: "1"
 
 #### Установка eVision для Windows
 
-Начиная с версии 3.6.0 в установочном пакете eVision содержится пакет Visual C++. Скачать установочный файл можно на сайте www.evision.tech в разделе Evision. Или по этой ссылке [https://api.evision.tech/distr/eVision.3.6.0_setup.exe](https://api.evision.tech/distr/eVision.3.6.0_setup.exe)  
+Начиная с версии 3.6.0 в установочном пакете eVision содержится пакет Visual C++. Скачать установочный файл можно на сайте www.evision.tech в разделе Evision. Или по этой ссылке [https://api.evision.tech/distr/eVision.3.6.2_setup.exe](https://api.evision.tech/distr/eVision.3.6.2_setup.exe)  
 
 ![](images/Screenshot_2.png)
 
