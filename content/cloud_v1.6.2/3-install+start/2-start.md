@@ -25,6 +25,6 @@ sort: "2"
 
 ![](images/start(4).png)
 
-открывается eVision Cloud в котором вы авторизовались.
+5. Открывается eVision Cloud в котором вы авторизовались.
 
 ![](images/start(5).png)
