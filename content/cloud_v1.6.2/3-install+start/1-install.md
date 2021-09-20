@@ -1,6 +1,6 @@
 ---
 slug: "/post1"
-title: "Установка eVision"
+title: "Установка eVision на мобильное устройство"
 sort: "1"
 ---
 
