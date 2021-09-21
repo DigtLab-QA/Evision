@@ -37,9 +37,9 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      'v3.4.0',
-      'v3.6.0',
-      'cloud_v1.6.2'
+      '1',
+      '2',
+      '3'
     ],
     collapsedNav: [],
     links: [{ text: 'Evision.Tech', link: 'https://evision.tech/' }],
