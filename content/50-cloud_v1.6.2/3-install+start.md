@@ -1,5 +1,5 @@
 ---
-title: "Установка и запуск"
+title: "Запуск"
 metaTitle: "Evision.Tech"
 metaDescription: "This is the meta description for this page"
 ---
