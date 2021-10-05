@@ -1,5 +1,5 @@
 ---
-title: "eVision Cloud 1.6.2"
+title: "eVision Cloud 1.6"
 metaTitle: "Evision.Tech"
 metaDescription: "This is the meta description for this page"
 sort: "3"
