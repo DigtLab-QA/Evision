@@ -38,7 +38,7 @@ sort: "1"
    Доступ в интернет **eVision** необходим для:
 
 - активации и проверки лицензионных ключей видеоаналитики, 
-- работы сервиса [eVision.Cloud](http://cloud.evision.tech/) и использования навыка **Умный домофон** в голосовом помощнике [Алиса](https://dialogs.yandex.ru/store/skills/95f2acff-umnyj-domofon),
+- работы сервиса [eVision.Cloud](http://cloud.evision.tech/) и использования навыка **Умный домофон** в голосовых помощниках [Алиса](https://dialogs.yandex.ru/store/skills/95f2acff-umnyj-domofon) и [Салют](https://sberdevices.ru/smarthome/?_ga=2.214282199.1708569965.1644762143-1215682505.1644762143),
 - подключения камер, доступных через глобальный интернет,
 - обновления версии **eVision**
 
