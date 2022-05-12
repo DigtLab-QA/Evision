@@ -6,7 +6,7 @@ sort: "1"
 
 #### Установка eVision для Windows
 
-Начиная с версии 3.6 в установочном пакете eVision содержится пакет Visual C++. Скачать установочный файл можно на сайте www.evision.tech в разделе eVision или по ссылке [https://api.evision.tech/distr/eVision.3.8.5_setup.exe](https://api.evision.tech/distr/eVision.3.8.5_setup.exe)  
+Начиная с версии 3.6 в установочном пакете eVision содержится пакет Visual C++. Скачать установочный файл можно на сайте www.evision.tech в разделе eVision или по ссылке [https://api.evision.tech/distr/eVision.3.8.5_setup.exe](https://api.evision.tech/distr/eVision.3.8.5_setup.exe). 
 
 ![](images/Screenshot_1.png)
 
@@ -14,23 +14,23 @@ sort: "1"
 
 ![](images/Screenshot_2.png)
 
-Нажмите **ОК**
+Нажмите **ОК**.
 
 ![](images/Screenshot_3.png)
 
-Нажмите **Далее**
+Нажмите **Далее**.
 
 ![](images/4_1.png)
 
-Нажмите **Далее**
+Нажмите **Далее**.
 
 ![](images/Screenshot_5.png)
 
-Нажмите **Далее**
+Нажмите **Далее**.
 
 ![](images/Screenshot_6.png)
 
-Нажмите **Установить**
+Нажмите **Установить**.
 
 После завершения установки **eVision** будет готов к запуску.
 
@@ -44,7 +44,7 @@ sort: "1"
 
 А также вы можете прочитать инструкцию с некоторыми полезными командами для Docker:
 
-1. <https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru>
+ <https://www.digitalocean.com/community/tutorials/docker-ubuntu-18-04-1-ru>
 
 После установки Docker и Docker-Compose скачиваем конфигурационный YML файл текущей версии **eVision** с официального сайта по ссылке: 
 
@@ -58,6 +58,6 @@ sort: "1"
 
 *docker-compose up*
 
-После выполнения данной команды контейнер будет запущен, и в окне терминала появится логирование событий и состояния **eVision.**
+После выполнения данной команды контейнер будет запущен, и в окне терминала появится логирование событий и состояния **eVision**:
 
 ![](images/Screenshot_8.png)
