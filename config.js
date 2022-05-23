@@ -49,7 +49,7 @@ const config = {
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: '',
-    favicon: 'https://raw.githubusercontent.com/DigtLab-QA/Evision/master/src/images/favicon.png',
+    favicon: 'https://raw.githubusercontent.com/DigtLab-QA/Evision/master/src/images/favicon.svg',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
